@@ -1,5 +1,3 @@
-# Siddharth's Engineering Garden
+so first i repair my pc to convert into a server
 
-Welcome to my quantum computing and homelab notes.
-[[Untitled]]
-
+for details go [[pp.md.pdf]]
